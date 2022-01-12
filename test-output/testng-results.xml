@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-11T22:54:07 PST" name="Default suite" finished-at="2022-01-11T22:54:08 PST" duration-ms="885">
+    <groups>
+    </groups>
+    <test started-at="2022-01-11T22:54:07 PST" name="Default test" finished-at="2022-01-11T22:54:08 PST" duration-ms="885">
+      <class name="com.testcases.GET">
+        <test-method is-config="true" signature="getMethod()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:07 PST" name="getMethod" finished-at="2022-01-11T22:54:08 PST" duration-ms="677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMethod -->
+        <test-method is-config="true" signature="getPostURL()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getPostURL" finished-at="2022-01-11T22:54:08 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPostURL -->
+        <test-method is-config="true" signature="getURL()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getURL" finished-at="2022-01-11T22:54:08 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getURL -->
+        <test-method is-config="true" signature="getSimplebooksURL()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getSimplebooksURL" finished-at="2022-01-11T22:54:08 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSimplebooksURL -->
+        <test-method is-config="true" signature="getSimplebooksdeleteURL()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getSimplebooksdeleteURL" finished-at="2022-01-11T22:54:08 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSimplebooksdeleteURL -->
+        <test-method is-config="true" signature="getbooksurl()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getbooksurl" finished-at="2022-01-11T22:54:08 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getbooksurl -->
+        <test-method signature="getValuesFromJSONResponse(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getValuesFromJSONResponse" data-provider="DP1" finished-at="2022-01-11T22:54:08 PST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[George]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Bluth]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[george.bluth@reqres.in]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[https://reqres.in/img/faces/1-image.jpg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValuesFromJSONResponse -->
+        <test-method is-config="true" signature="getPostURL()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getPostURL" finished-at="2022-01-11T22:54:08 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPostURL -->
+        <test-method is-config="true" signature="getSimplebooksdeleteURL()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getSimplebooksdeleteURL" finished-at="2022-01-11T22:54:08 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSimplebooksdeleteURL -->
+        <test-method is-config="true" signature="getURL()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getURL" finished-at="2022-01-11T22:54:08 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getURL -->
+        <test-method is-config="true" signature="getSimplebooksURL()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getSimplebooksURL" finished-at="2022-01-11T22:54:08 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSimplebooksURL -->
+        <test-method is-config="true" signature="getbooksurl()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getbooksurl" finished-at="2022-01-11T22:54:08 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getbooksurl -->
+        <test-method signature="getValuesFromJSONResponse(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getValuesFromJSONResponse" data-provider="DP1" finished-at="2022-01-11T22:54:08 PST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Janet]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Weaver]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[janet.weaver@reqres.in]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[https://reqres.in/img/faces/2-image.jpg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValuesFromJSONResponse -->
+        <test-method is-config="true" signature="getSimplebooksURL()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getSimplebooksURL" finished-at="2022-01-11T22:54:08 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSimplebooksURL -->
+        <test-method is-config="true" signature="getPostURL()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getPostURL" finished-at="2022-01-11T22:54:08 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPostURL -->
+        <test-method is-config="true" signature="getURL()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getURL" finished-at="2022-01-11T22:54:08 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getURL -->
+        <test-method is-config="true" signature="getSimplebooksdeleteURL()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getSimplebooksdeleteURL" finished-at="2022-01-11T22:54:08 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSimplebooksdeleteURL -->
+        <test-method is-config="true" signature="getbooksurl()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getbooksurl" finished-at="2022-01-11T22:54:08 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getbooksurl -->
+        <test-method signature="getValuesFromJSONResponse(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getValuesFromJSONResponse" data-provider="DP1" finished-at="2022-01-11T22:54:08 PST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Emma]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Wong]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[emma.wong@reqres.in]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[https://reqres.in/img/faces/3-image.jpg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValuesFromJSONResponse -->
+        <test-method is-config="true" signature="getPostURL()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getPostURL" finished-at="2022-01-11T22:54:08 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPostURL -->
+        <test-method is-config="true" signature="getSimplebooksURL()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getSimplebooksURL" finished-at="2022-01-11T22:54:08 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSimplebooksURL -->
+        <test-method is-config="true" signature="getSimplebooksdeleteURL()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getSimplebooksdeleteURL" finished-at="2022-01-11T22:54:08 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSimplebooksdeleteURL -->
+        <test-method is-config="true" signature="getURL()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getURL" finished-at="2022-01-11T22:54:08 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getURL -->
+        <test-method signature="getValuesFromJSONResponse(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getValuesFromJSONResponse" data-provider="DP1" finished-at="2022-01-11T22:54:08 PST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Eve]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Holt]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[eve.holt@reqres.in]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[https://reqres.in/img/faces/4-image.jpg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValuesFromJSONResponse -->
+        <test-method is-config="true" signature="getbooksurl()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getbooksurl" finished-at="2022-01-11T22:54:08 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getbooksurl -->
+        <test-method is-config="true" signature="getPostURL()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getPostURL" finished-at="2022-01-11T22:54:08 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPostURL -->
+        <test-method is-config="true" signature="getSimplebooksURL()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getSimplebooksURL" finished-at="2022-01-11T22:54:08 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSimplebooksURL -->
+        <test-method is-config="true" signature="getbooksurl()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getbooksurl" finished-at="2022-01-11T22:54:08 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getbooksurl -->
+        <test-method is-config="true" signature="getSimplebooksdeleteURL()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getSimplebooksdeleteURL" finished-at="2022-01-11T22:54:08 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSimplebooksdeleteURL -->
+        <test-method signature="getValuesFromJSONResponse(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getValuesFromJSONResponse" data-provider="DP1" finished-at="2022-01-11T22:54:08 PST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Charles]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Morris]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[charles.morris@reqres.in]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[https://reqres.in/img/faces/5-image.jpg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValuesFromJSONResponse -->
+        <test-method is-config="true" signature="getURL()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getURL" finished-at="2022-01-11T22:54:08 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getURL -->
+        <test-method is-config="true" signature="getPostURL()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getPostURL" finished-at="2022-01-11T22:54:08 PST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPostURL -->
+        <test-method is-config="true" signature="getSimplebooksURL()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getSimplebooksURL" finished-at="2022-01-11T22:54:08 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSimplebooksURL -->
+        <test-method is-config="true" signature="getSimplebooksdeleteURL()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getSimplebooksdeleteURL" finished-at="2022-01-11T22:54:08 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSimplebooksdeleteURL -->
+        <test-method is-config="true" signature="getURL()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getURL" finished-at="2022-01-11T22:54:08 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getURL -->
+        <test-method signature="getValuesFromJSONResponse(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getValuesFromJSONResponse" data-provider="DP1" finished-at="2022-01-11T22:54:08 PST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tracey]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Ramos]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[tracey.ramos@reqres.in]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[https://reqres.in/img/faces/6-image.jpg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValuesFromJSONResponse -->
+        <test-method is-config="true" signature="getbooksurl()[pri:0, instance:com.testcases.GET@294a6b8e]" started-at="2022-01-11T22:54:08 PST" name="getbooksurl" finished-at="2022-01-11T22:54:08 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getbooksurl -->
+      </class> <!-- com.testcases.GET -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
